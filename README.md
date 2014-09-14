@@ -1,6 +1,6 @@
 # codeX coders
 
-This your online playground codeX coder. 
+This your online playground as a codeX coder. 
 
 You will need this repository to deploy to the ```http://coder.codex.co``` domain.
 

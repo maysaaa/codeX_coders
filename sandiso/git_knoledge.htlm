@@ -1,0 +1,27 @@
+List of all commands i know:
+
+1  $ apt-get install git
+    2  git
+    3  apt-get
+    4  sudo apt-get update
+    5  sudo apt-get install git
+    6  git
+    7  history
+    8  WolfNdaWork
+    9  mkdir WolfNdaWork
+   10  ls
+   11  cd WolfNdaWork/
+   12  ls
+   13  ls -alt
+   14  git
+   15  git clone https://github.com/NdaJunior/codeX_OnlineSetup
+   16  ls -alt
+   17  history
+   18  cd codeX_OnlineSetup/
+   19  ls
+   20  nano
+   21  nano README.md 
+   22  touch socialmediaprofiles.txt
+   23  ls -alt
+   24  nano socialmediaprofiles.txt 
+   25  history
